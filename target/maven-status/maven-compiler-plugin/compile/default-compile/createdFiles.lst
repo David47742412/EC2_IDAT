@@ -1,0 +1,5 @@
+ec2\prueba\idat\Ec2Application.class
+ec2\prueba\idat\controller\CourseController.class
+ec2\prueba\idat\models\Course.class
+ec2\prueba\idat\repository\ICourse.class
+ec2\prueba\idat\controller\BaseController.class
